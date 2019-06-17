@@ -1,0 +1,26 @@
+Machine Learning is a subset of artificial intelligence. It focuses mainly on the designing of systems, thereby allowing them to learn and make predictions based on some experience which is data in case of machines.
+Machine Learning enables the computers to act and make data-driven decisions rather than being explicitly programmed in order to carry out a certain task. These programs or algorithms are designed to learn and improve over time when exposed to new data.
+
+Today machine learning is the core of many Futuristic technological advancements in our world. People around the world are actually interested in learning about What is Machine Learning. Look around you, you will find various examples or implementations of machine learning, such as Tesla’s self-driving cars, Apple’s Siri, Sophia AI Robot and many more.
+
+Types of Machine Leaning
+
+Machine learning is sub-categorized to three types:
+
+    Supervised Learning – Train Me!
+    Unsupervised Learning – I am self sufficient in learning
+    Reinforcement Learning – My life My rules! (Hit & Trial)
+
+What is Supervised Learning?
+
+It is a process of an algorithm learning from the training dataset. You can think it as a teacher supervising the learning process. Where you know the correct answers but the algorithm iteratively keeps predicting the training data and is corrected by the teacher. This learning stops when the algorithm achieves an acceptable level of performance.
+
+What is Unsupervised Learning?
+
+In this process of learning, no one supervises the process, there are no correct answers and there is no teacher. Algorithms are left to their own to discover and present the interesting structure in the data.
+
+In the unsupervised learning, the data instances of a training dataset do not have an expected output associated with them. Instead, the algorithm detects patterns based on the original characteristics of the input data. An example of unsupervised learning is clustering. In this, similar data instances are grouped together in order to identify clusters of data.
+
+What is Reinforcement Learning?
+
+Reinforcement learning can be thought of as a hit and trial method. A Reward or Penalty point is given for each action. If the machine chooses a correct option it gains the reward point and vice-versa.
